@@ -4,17 +4,17 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Amina Wanjiru",
-    location: "Nairobi",
+    location: "Mitambo",
     text: "Mobimba Junior transformed our living room with the most beautiful sofa set. The quality of the wood and upholstery is exceptional. Highly recommended!",
   },
   {
     name: "Joseph Ochieng",
-    location: "Mombasa",
+    location: "Crossroad",
     text: "The custom wardrobe they built for our bedroom is stunning. Perfect fit, beautiful mahogany finish, and it was delivered right on time. True craftsmen!",
   },
   {
     name: "Fatuma Hassan",
-    location: "Kisumu",
+    location: "Gatua",
     text: "Their kitchen cabinets are a work of art. Our kitchen now looks like it belongs in a magazine. Professional service from start to finish.",
   },
   {
